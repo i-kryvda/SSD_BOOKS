@@ -1,0 +1,235 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Library/Author/Agatha-Christie": {
+      "icon": "lucide-check-square-2",
+      "unsynced": [
+        "2563962f59bff44b"
+      ],
+      "color": "green"
+    },
+    "Library/Author/Aldous-Huxlex": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Aldous-Huxlex/Brave-New-World": {
+      "icon": "lucide-check-circle-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Anthony-Burgess": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Brodsky": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Charles-Bukowski": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Chuck-Palahniuk": {
+      "color": "yellow",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Danielle-Brown": {
+      "color": "yellow",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/David-Selinger": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/De-Saint-Exupery": {
+      "icon": "lucide-check-square-2",
+      "unsynced": [
+        "2563962f59bff44b"
+      ],
+      "color": "green"
+    },
+    "Library/Author/Dorzh-Batu": {
+      "color": "yellow",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Franz-Kafka": {
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ],
+      "icon": "lucide-check-square-2"
+    },
+    "Library/Author/Fyodor-Dostoevsky": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/George-Orwell": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Gogol-Nikolai-Vasilyevich": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Haruki-Murakami": {
+      "icon": "lucide-check-square-2",
+      "unsynced": [
+        "2563962f59bff44b"
+      ],
+      "color": "green"
+    },
+    "Library/Author/Hunter-Stockton-Thompson": {
+      "color": "yellow",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Joanne-Rowling": {
+      "icon": "lucide-check-square-2",
+      "unsynced": [
+        "2563962f59bff44b"
+      ],
+      "color": "green"
+    },
+    "Library/Author/Knut-Hamsun": {
+      "icon": "lucide-check-square-2",
+      "unsynced": [
+        "2563962f59bff44b"
+      ],
+      "color": "green"
+    },
+    "Library/Author/Mikhail-Bulgakov": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Oskar-Wilde": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Paulo-Coelho": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Ray-Douglas-Bradbury": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Stefan-Zweig": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Strugatsky-Brothers": {
+      "icon": "lucide-check-square-2",
+      "color": "yellow",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Author/Tatsuhiko-Takimoto": {
+      "icon": "lucide-check-square-2",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Psychology/Author/Sigmund-Freud/%Sigmund Freud.md": {
+      "icon": "lucide-user-circle",
+      "color": "purple"
+    },
+    "Library/Psychology/Solo/Hormony_shastia": {
+      "icon": "lucide-check-square",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    },
+    "Library/Psychology/Solo/Pochuvaysia_dobre": {
+      "icon": "lucide-check-square",
+      "color": "green",
+      "unsynced": [
+        "2563962f59bff44b"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}
